@@ -13,5 +13,6 @@ Quando, in fase di assemblaggio, avremo la necessità di usare le viti sappiamo 
 In informatica la variabile verrà richiamata all'interno del nostro algoritmo con lo scopo di riferirci a ciò che si trova al suo interno, utile allo sviluppo dello stesso.
 
 3. undefined e null sono la stessa cosa?
-
-
+No, non sono la stessa cosa, anche se potrebbe sembrare.
+Se l'output di una variabile è "undefined" vuol dire che la stessa è stata dichiarata senza assegnarle alcun valore.
+Se l'output di una variabile è "null" vuol dire che le è stato assegnato volontariamente il valore "null".
